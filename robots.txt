@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 1
+Host: http://1kss.ru/
+Sitemap: http://1kss.ru/sitemap.xml
